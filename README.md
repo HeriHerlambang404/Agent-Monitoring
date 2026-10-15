@@ -2,6 +2,18 @@
 
 Dashboard lokal untuk memonitor session dan kesehatan runtime Hermes.
 
+Repository: https://github.com/HeriHerlambang404/Agent-Monitoring
+
+Dashboard mengambil data session, message, tool activity, token, dan status gateway langsung dari runtime Hermes secara read-only. Tidak ada data mock yang digunakan untuk tampilan agent/task.
+
+## Clone dari GitHub
+
+```bash
+git clone https://github.com/HeriHerlambang404/Agent-Monitoring.git
+cd Agent-Monitoring
+npm install
+```
+
 ## Menjalankan
 
 Terminal 1:

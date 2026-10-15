@@ -4,6 +4,21 @@
 
 Dashboard React + Vite sudah terhubung ke runtime Hermes secara lokal.
 
+Repository GitHub: https://github.com/HeriHerlambang404/Agent-Monitoring
+Branch utama: `main`
+Status: public dan sudah dipush.
+
+Agent workspace, task queue, recent activity, statistik token/tool, dan gateway sekarang menggunakan data runtime Hermes; tidak ada mock agent/task yang dipakai untuk tampilan utama.
+
+## Clone project
+
+```bash
+git clone https://github.com/HeriHerlambang404/Agent-Monitoring.git
+cd Agent-Monitoring
+npm install
+```
+
+
 ## Fitur yang sudah selesai
 
 - Dashboard karakter agent
